@@ -33,4 +33,4 @@ by the way when you upload it, delete the README.md file, its not important then
 
 //***
 
-hope its good enough for start :D Thank you for using mine template!
+hope its good enough for start :D Thank you for using my template!
