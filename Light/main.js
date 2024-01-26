@@ -1,1 +1,1 @@
-console.log("Website by HTJOFF :D");
+console.log("Website template created by Samity, github: Samityy");
